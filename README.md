@@ -1,3 +1,3 @@
 # Trains-Simulation
 
-Add comments to Manu and Score class
+Add comments to Menu and Score class
