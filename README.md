@@ -1,8 +1,13 @@
 # Trains-Simulation
 
-Application that simulates the logistics of railway lines. It allows user to manage locomotives, wagons and train routes through console.
+Application that simulates the logistics of railway lines. 
+
+It allows user to manage locomotives, wagons and train routes through console.
+
 It is build using Java and it utilizes concepts of OOP, threading for time based-events and exception handling for managing errors.
-Project uses BFS to find the shortest route between stations. 
+
+It uses BFS to find the shortest route between stations. 
+
 
 <h2>Features</h2>
 
