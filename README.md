@@ -7,10 +7,15 @@ Project uses BFS to find the shortest route between stations.
 Features:
 - Management of:
   a) Locomotives
+  
   b) Wagons
+  
   c) Trains
+  
   d) Items
+  
   e) Stations
+  
 - Options of management:
   a) Creating new objects
   b) Removing objects
